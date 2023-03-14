@@ -1,0 +1,25 @@
+{
+  "name": "checkers",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szariii/Checkers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szariii/Checkers/issues"
+  },
+  "homepage": "https://github.com/szariii/Checkers#readme",
+  "keywords": [],
+  "description": ""
+}

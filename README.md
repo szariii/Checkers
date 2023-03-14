@@ -3,7 +3,7 @@
 <p>Game was made with using: webgl, treejs and express </p>
 
 <h2>About game</h2>
-<p>You cna play with 2 players on the same computer by start application and write localhost:3000 </p>
+<p>You can play with 2 players on the same computer by start application and write localhost:3000 </p>
 
 
 <h2>Warning</h2>
@@ -29,3 +29,9 @@
   </li>
   <li>Write localhost:3000 in browser to start a game (you need to play with second player on the same computer)</li>
 </ol>
+
+<h2>Screenshots</h2>
+<img src="./img_github/img1.JPG" alt="img1">
+<img src="./img_github/img2.JPG" alt="img2">
+<img src="./img_github/img3.JPG" alt="img3">
+<img src="./img_github/img4.JPG" alt="img4">
